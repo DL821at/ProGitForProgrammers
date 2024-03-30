@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!Change once again in CommandLine");
 Console.WriteLine("This line adds to show staging area_CommandLine");
 Console.WriteLine("This line adds to show staging area_CommandLine_and_VisualBasic");
+Console.WriteLine("Try adding a line in CommandLine and push again")
